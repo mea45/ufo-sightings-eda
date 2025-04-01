@@ -1,2 +1,3 @@
-# ufo-sightings-eda
-Data cleaning, processing, and exploratory analysis of UFO sightings from Kaggle dataset.
+# Exploratory Data Analysis of UFO Sightings Using Python
+
+*coming soon*
