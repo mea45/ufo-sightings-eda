@@ -6,7 +6,18 @@ This is the first project I worked on for my data analytics portfolio. The main 
 There are two parts to this projects. In the [first part](https://github.com/manalelabdellaoui/ufo-sightings-eda/blob/main/preprocessing.ipynb), the dataset was cleaned up and prepared for further analysis. In the [second part](https://github.com/manalelabdellaoui/ufo-sightings-eda/blob/main/exploratory_data_analysis.ipynb), we took a deeper dive into the data and performed some explantory analysis. 
 
 ## Dataset
-*coming soon...*
+- `datetime`: date and time of alleged UFO sighting;
+- `city`: city in which the UFO was sighted;
+- `state`: state in which the UFO was sighted;
+- `country`: country in which the UFO was sighted;
+- `shape`: shape of the sighted UFO;
+- `duration`: duration of the UFO sighting in seconds (there was also a second duration column with a different format that was not used in this project);
+- `comments`: comments attached to the reported UFO sighting;
+- `date_posted`: date on which the UFO sighting was reported;
+- `latitude`: latitude of the location of sighting;
+- `longitude`: longitude of the location of sighting.
+
+In the part 2, an addition column, `comments_length`, was added indicating the length of the comment attached to the reported UFO sighting. It is the sum of all characters in the string.
 
 ## Findings
 - **📅 Time Trends**: Sightings have increased over time, likely due to improvements in communication rather than actual frequency.
