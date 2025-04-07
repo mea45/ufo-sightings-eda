@@ -6,7 +6,7 @@ This is the first project I worked on for my data analytics portfolio. The main 
 There are two parts to this projects. In the [first part](https://github.com/manalelabdellaoui/ufo-sightings-eda/blob/main/preprocessing.ipynb), the dataset was cleaned up and prepared for further analysis. In the [second part](https://github.com/manalelabdellaoui/ufo-sightings-eda/blob/main/exploratory_data_analysis.ipynb), we took a deeper dive into the data and performed some explantory analysis. 
 
 ## Dataset
-- `datetime`: date and time of alleged UFO sighting;
+- `datetime`: date and time of the alleged UFO sighting;
 - `city`: city in which the UFO was sighted;
 - `state`: state in which the UFO was sighted;
 - `country`: country in which the UFO was sighted;
