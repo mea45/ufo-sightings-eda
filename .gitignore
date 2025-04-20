@@ -1,4 +1,4 @@
-# Python-gerelateerde bestanden
+# Python related files
 __pycache__/
 *.pyc
 *.pyo
@@ -9,11 +9,11 @@ env/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Spyder-specifieke bestanden
+# Spyder specific files
 .spyderproject
 .spyderworkspace
 
-# Log- en cache-bestanden
+# Log and cache files
 *.log
 *.csv
 *.tsv
